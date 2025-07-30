@@ -1,6 +1,23 @@
-# Proseware Sales & Performance Dashboard
+# Fabrikam, Inc. Sales & Performance Dashboard
 
-A professional Power BI report analyzing product, pricing, and regional sales data for Proseware Inc. The dashboard includes executive-level insights, pricing strategy analysis, regional performance mapping, and manufacturer-level breakdowns.
+A professional Power BI report analyzing product, pricing, and regional sales data for Fabrikam, Inc.. The dashboard includes executive-level insights, pricing strategy analysis, regional performance mapping, and manufacturer-level breakdowns.
+
+🏢 About Fabrikam, Inc.
+
+Fabrikam, Inc. is a fictional company commonly used by Microsoft in demo data and training materials. In this dataset, Fabrikam operates as a consumer electronics manufacturer and distributor, selling products through various manufacturers across different regions and market segments.
+
+The company competes in a simulated retail market with other fictional brands such as Proseware, Inc., Contoso, and others — allowing users to explore realistic business scenarios without exposing real corporate data.
+📦 About the Data Source
+
+This project is based on the VanArsdel Ltd. sample dataset, published by Microsoft and often used in Power BI training. The dataset includes:
+
+    Sales transactions (Revenue, Units)
+
+    Product metadata (Category, Segment, MSRP)
+
+    Geographic info (City, State, Region, Zip)
+
+    Manufacturer details (e.g., Proseware, Fabrikam, etc.)
 
  📊 Report Pages
 
@@ -28,7 +45,7 @@ A professional Power BI report analyzing product, pricing, and regional sales da
 
 | Executive Summary | Product & Pricing |
 |-------------------|-------------------|
-| ![page1](screenshots/page1_executive_summary.png) | ![page2](screenshots/page2_product_pricing.png) |
+| ![page1](executives ummary.png) | ![page2](product & price analysis.png) |
 
 | Geography | Manufacturer Insights |
 |----------|------------------------|
