@@ -43,7 +43,18 @@ This project is based on the VanArsdel Ltd. sample dataset, published by Microso
 
 ## 🖼️ Screenshots
 
-executive summary with filters on.png
+| Executive Summary | Product & Pricing Analysis|
+|-------------------|----------------------------|
+| ![Page 1](screenshots/executive-summary.png) | ![Page 2](screenshots/ppa.png) |
+
+| Geography & Regional Analysis | Manufacturer & Seller Insights |
+|-------------------------------|------------------------------|
+| ![Page 3](screenshots/gra.png) | ![Page 4](screenshots/msi.png) |
+
+| Executive Summary With Filters ON| 
+|----------------------------------|
+| ![Page 3](screenshots/executive-summary-with-filters-on.png) |
+
 
 ## 📁 Files
 
