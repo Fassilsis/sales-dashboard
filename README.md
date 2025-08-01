@@ -56,16 +56,11 @@ This project is based on the VanArsdel Ltd. sample dataset, published by Microso
 | ![Page 3](screenshots/executive-summary-with-filters-on.png) |
 
 
-## 📁 Files
-
-- `sales and performance dashboard.pbix` — Full Power BI report file
-
 ## 📌 Tools Used
 
 - Power BI Desktop
 - DAX
 - Power Query
 
-## 📬 Contact
 
 Made by Fassil Yehuala
